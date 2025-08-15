@@ -5,7 +5,7 @@
 ### About me:
 - 🌱 I'm 22 years old.
 - 🖥️ Studying Analysis, Development and Integration of Systems (ADS) at FIAP.
-- 📫 Currently in the 3st semester of college (3/4)
+- 📫 Currently in the 4st semester of college (4/4)
 
 #
 
